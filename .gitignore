@@ -1,0 +1,11 @@
+# Created by https://ww.gitignore.io/api/django
+# file originally on ubutu bedroom computer
+
+env/*
+*.pyc
+/media
+__pycache__/
+local_settings.py
+*.log
+*.pot
+db.sqlite3
