@@ -9,3 +9,4 @@ local_settings.py
 *.log
 *.pot
 db.sqlite3
+requirements.txt
